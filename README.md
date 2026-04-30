@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Apurva Potdar 👋
 
-<!--
-**ApurvaPotdar14/ApurvaPotdar14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | Turning Data into Business Decisions
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Tools:** Power BI · Excel · MySQL · Python
+- **Concepts:** Data Visualization · SQL Analytics · Dashboard Design
+
+---
+
+## 📂 Projects
+- 🔹 [Employee Attrition Analysis](https://github.com/ApurvaPotdar14/Employee_Attrition)
+- 🔹 [SQL Employee Analysis](https://github.com/ApurvaPotdar14/SQL-employee-analysis)
+- 🔹 [FutureCity Dashboard](https://github.com/ApurvaPotdar14/FutureCity_Dashboard)
+- 🔹 [Spam Detection](https://github.com/ApurvaPotdar14/Spam_Detection)
+- 🔹 [Multiple Regression](https://github.com/ApurvaPotdar14/Multiple_Regression)
+- 🔹 [Linear Regression](https://github.com/ApurvaPotdar14/linear_regression)
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apurva%20Potdar-blue?logo=linkedin)](https://www.linkedin.com/in/apurvapotdar14/)
