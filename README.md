@@ -13,6 +13,7 @@
 ## 📂 Projects
 - 🔹 [Employee Attrition Analysis](https://github.com/ApurvaPotdar14/Employee_Attrition)
 - 🔹 [SQL Employee Analysis](https://github.com/ApurvaPotdar14/SQL-employee-analysis)
+- 🔹 [Superstore Sales Dashboard](https://github.com/ApurvaPotdar14/Superstore-Sales-Dashboard)
 - 🔹 [FutureCity Dashboard](https://github.com/ApurvaPotdar14/FutureCity_Dashboard)
 - 🔹 [Spam Detection](https://github.com/ApurvaPotdar14/Spam_Detection)
 - 🔹 [Multiple Regression](https://github.com/ApurvaPotdar14/Multiple_Regression)
