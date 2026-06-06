@@ -5,9 +5,6 @@
 Turning raw data into actionable business insights through dashboards, reporting, and analytics.
 
 ---
-![](https://komarev.com/ghpvc/?username=ApurvaPotdar14&label=Profile%20Views&color=0e75b6&style=flat)
-
----
 
 ## 🛠️ Skills & Tools
 
